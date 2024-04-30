@@ -28,4 +28,4 @@ Create stunning portraits with Picsi.AI, a Discord bot that uses AI to morph, ag
 2. /saveid -> /swapid - https://www.midjourney.com/home?callbackUrl=%2Fexplore
 
 ## Disclaimer
-This project uses AI to generate images based on user input. The source code and the generated images are not intended for any illegal or harmful purposes. The creators of this project are not liable for any misuse or abuse of the AI image generator. Please use this tool responsibly and ethically.
+This project uses AI to generate images based on user input. The source code and the generated images are not intended for any illegal or harmful purposes. I'm not liable for any misuse or abuse of the AI image generator. Please use this tool responsibly and ethically.
